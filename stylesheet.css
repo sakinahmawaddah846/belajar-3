@@ -1,0 +1,19 @@
+body {
+font-family: "Avenir Next";
+}
+h1{
+backgound-color:#dddddd;
+height: 30px;
+}
+.header{
+background-color: #f3f372;
+height: 90px;
+}
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
