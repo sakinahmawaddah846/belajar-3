@@ -1,6 +1,14 @@
 body {
 font-family: "Avenir Next";
 }
+.h1{
+  background-color: #dddddd;
+height: 30px;
+}
+.h2{
+background-color: #ffd800;
+height: 60px;
+}
 .header{
 background-color: #f3f372;
 height: 90px;
